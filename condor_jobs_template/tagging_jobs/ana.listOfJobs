@@ -1,0 +1,1 @@
+python ./tardir/ttbar_tagger.py --out WJets_0 --nTotalJobs 50 --iJob 0 --mc yes --PdfVersion cteq66 --printEvery 5000 --dir /uscms_data/d3/lfeng7/CMSSW_5_3_11/src/training_set_ntuples/W3Jets --sample_type WJets
